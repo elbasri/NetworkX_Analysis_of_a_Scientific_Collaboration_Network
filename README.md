@@ -64,7 +64,7 @@ This analysis provides insights into the structure of scientific collaborations 
 To run the notebook:
 1. Clone the repository:
    ```sh
-   git clone 
+   git clone https://github.com/elbasri/NetworkX_Analysis_of_a_Scientific_Collaboration_Network.git
    ```
 2. Install the dependencies:
    ```sh
