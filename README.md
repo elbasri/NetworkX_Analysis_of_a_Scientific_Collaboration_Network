@@ -60,6 +60,11 @@ The dataset used for this analysis is the `CA-GrQc.txt` file, downloaded from [S
 ## Conclusion
 This analysis provides insights into the structure of scientific collaborations in the field of General Relativity and Quantum Cosmology. The results help identify influential authors, collaboration patterns, and community structures that facilitate further understanding of how research is conducted in this domain.
 
+## Vidéo Explicative
+
+Une vidéo de démonstration expliquant le projet est disponible [ici](https://docs.google.com/document/d/1OizDmup9EsFcw8WZGEYT9biMUNgviCNw4K5Fcq-kQu0/edit?usp=sharing). Cette vidéo présente une vue d'ensemble de l'approche, de la méthodologie et des conclusions du projet.
+
+
 ## Running the Notebook
 To run the notebook:
 1. Clone the repository:
