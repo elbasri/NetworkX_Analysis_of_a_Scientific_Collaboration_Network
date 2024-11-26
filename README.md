@@ -62,8 +62,7 @@ This analysis provides insights into the structure of scientific collaborations 
 
 ## Vidéo Explicative
 
-Une vidéo de démonstration expliquant le projet est disponible [ici](https://docs.google.com/document/d/1OizDmup9EsFcw8WZGEYT9biMUNgviCNw4K5Fcq-kQu0/edit?usp=sharing). Cette vidéo présente une vue d'ensemble de l'approche, de la méthodologie et des conclusions du projet.
-
+Une vidéo de démonstration expliquant le projet est disponible [ici](https://docs.google.com/document/d/1OizDmup9EsFcw8WZGEYT9biMUNgviCNw4K5Fcq-kQu0/edit?usp=sharing).
 
 ## Running the Notebook
 To run the notebook:
